@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991982074967",
+    "project_id": "yetoaq",
+    "storage_bucket": "yetoaq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991982074967:android:20dd3006a5ccee84b97712",
+        "android_client_info": {
+          "package_name": "com.example.loginson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991982074967-nkuq274b57ngmod5kvfr7mghl2qt90d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1fb60S-DnrZ2cyeebHQN42rhLQ0d_NIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991982074967-nkuq274b57ngmod5kvfr7mghl2qt90d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
